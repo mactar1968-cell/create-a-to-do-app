@@ -4,5 +4,18 @@
   "createdAt": "2026-11-11T11:23:17.774Z",
   "filename": "faa2bf64-70f9-4f38-8635-bcd147abe06e.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "ebcb7a1e-8be9-4db2-9e48-7f96b65c61f5",
+      "role": "user",
+      "content": "Always look for and use the appropriate **Firebase agent skills** to perform tasks related to Firebase.\n\nI want to use Firebase as my backend, using Firebase Authentication and Firestore database.\n\nSet up and use Email/password Authentication.\n\nUse my existing Firebase project: parc-css\n\nMake sure to register a Android app in that project and set up my app's codebase to use Firebase.",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-11T11:35:56.885Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
