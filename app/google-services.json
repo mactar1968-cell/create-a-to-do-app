@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "000000000000",
+    "project_number": "224032816605",
     "project_id": "parc-css",
-    "storage_bucket": "parc-css.appspot.com"
+    "storage_bucket": "parc-css.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "mobilesdk_app_id": "1:224032816605:android:a2ecd56d17c4b6d6deca34",
         "android_client_info": {
           "package_name": "com.parc.todo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSy_PLACEHOLDER_KEY"
+          "current_key": "AIzaSyBzHbMPuNzoEYdeafMSQMYPXTRQD3wYRmw"
         }
       ],
       "services": {
