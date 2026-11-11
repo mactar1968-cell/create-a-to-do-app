@@ -52,6 +52,18 @@
       "created_at": "2026-11-11T12:06:25.524Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "a3ee6d77-c26e-4a39-abb6-37468863a034",
+      "role": "user",
+      "content": "J’ai cliqué sur le lien et affiche une erreur",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-11T12:28:43.353Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
